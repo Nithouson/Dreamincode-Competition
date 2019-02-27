@@ -1,7 +1,7 @@
 # Dreamincode-Competition
 Programming Competitions of Dreamincode CS Group. Problems created,adapted by Nithouson.
 
-Eldrazi (10th comp.)  Coming soon...
+Eldrazi (10th comp.)      2019.2.2-2019.2.18     0 participant
 
 Quadrille (9th comp.)     2018.7.25-2018.7.30    2 participants
 
